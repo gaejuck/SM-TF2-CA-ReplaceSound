@@ -59,7 +59,7 @@ public Action SoundHook(int clients[MAXPLAYERS], int& iNumClients, char sOldSoun
 	
 	char sAttributes[256];		
 
-	if(!TF2CustAttr_GetString(iWeapon, "sound replace", sAttributes, sizeof(sAttributes)))
+	if(!TF2CustAttr_GetString(iWeapon, "replace sound", sAttributes, sizeof(sAttributes)))
 	{
 		return Plugin_Continue;
 	}
