@@ -1,7 +1,7 @@
 # Custom Attribute : Replace Sound
   
 It is a custom attribute that replace the existing original sound with custom sound.  
-And It written for [the Custom Attribute framework](https://github.com/nosoop/SM-TFCustAttr).
+And it written for [the Custom Attribute framework](https://github.com/nosoop/SM-TFCustAttr).
 
 In fact, I wanted to use [SM TF2 ReplaceSound](https://github.com/JessicaTheGunLady/SM-TF2-ReplaceSound), but it didn't work properly. So I made another one.
 
